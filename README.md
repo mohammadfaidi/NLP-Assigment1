@@ -13,7 +13,7 @@ b.	No consecutive dots are allowed
 The abbreviations are to be stored in file (p3.txt), each word in a separate line.
 The source code + the three files (content.txt, p1.txt, p2.txt, p3.txt) should be placed in a folder called 
 
-
+Q3
 In Java, use “Pattern” and “Matcher” classes to build a regular expression using which one can extract phrases that are used in the beginning of a sentence, followed by a comma, and contain at most 4 words. 
 For example: 
 
